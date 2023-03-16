@@ -1,0 +1,22 @@
+.imagem-main{
+    width: 81.25%;
+    margin: 0 0 0 10em
+}
+
+.imagem-main-1{
+    color: var(--preto);
+    font-size: 40px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    position: absolute;
+    top: 23%;
+    right: 12%
+}
+
+.imagem-main-2{
+    color: var(--branco);
+    font-size: 40px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    position: absolute;
+    top: 29%;
+    right: 13%
+}
